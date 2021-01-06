@@ -5,6 +5,7 @@
     "home_page_url": "https://publiiblog.vercel.app",
     "feed_url": "https://publiiblog.vercel.app/feed.json",
     "user_comment": "",
+    "icon": "https://publiiblog.vercel.app/media/website/bri.png",
     "author": {
         "name": "Brian"
     },
@@ -20,7 +21,7 @@
                 "name": "Brian"
             },
             "tags": [
-                   "posts",
+                   "Posts",
                    "ML",
                    "AI"
             ],
