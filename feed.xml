@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Brian Ketelsen</title>
-    <link href="https://www.bjk.fyi/feed.xml" rel="self" />
-    <link href="https://www.bjk.fyi" />
+    <link href="https://publiiblog.vercel.app/feed.xml" rel="self" />
+    <link href="https://publiiblog.vercel.app" />
     <updated>2021-01-06T06:16:20-05:00</updated>
     <author>
         <name>Brian</name>
     </author>
-    <id>https://www.bjk.fyi</id>
+    <id>https://publiiblog.vercel.app</id>
 
     <entry>
         <title>Organizing Documents with Some AI, ML, and Elbow Grease</title>
         <author>
             <name>Brian</name>
         </author>
-        <link href="https://www.bjk.fyi/organizing-documents-with-some-ai-ml-and-elbow-grease/"/>
-        <id>https://www.bjk.fyi/organizing-documents-with-some-ai-ml-and-elbow-grease/</id>
+        <link href="https://publiiblog.vercel.app/organizing-documents-with-some-ai-ml-and-elbow-grease/"/>
+        <id>https://publiiblog.vercel.app/organizing-documents-with-some-ai-ml-and-elbow-grease/</id>
             <category term="posts"/>
             <category term="ML"/>
             <category term="AI"/>
@@ -23,13 +23,13 @@
         <updated>2021-01-06T06:16:20-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.bjk.fyi/media/posts/1/IGa3Md8wP6g.jpg" alt="Motorcycle helmet with camera lenses inserted to look like a robot" />
+                        <img src="https://publiiblog.vercel.app/media/posts/1/IGa3Md8wP6g.jpg" alt="Motorcycle helmet with camera lenses inserted to look like a robot" />
                     In this first post of (likely) a multi-part series I’m going to discuss how I am using machine learning, AI,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.bjk.fyi/media/posts/1/IGa3Md8wP6g.jpg" alt="Motorcycle helmet with camera lenses inserted to look like a robot" />
+                    <img src="https://publiiblog.vercel.app/media/posts/1/IGa3Md8wP6g.jpg" alt="Motorcycle helmet with camera lenses inserted to look like a robot" />
                 <p>In this first post of (likely) a multi-part series I’m going to discuss how I am using machine learning, AI, and good old-fashioned elbow grease to make sense of the 3000 files in my <code>~/Documents/Unfiled</code> directory.</p>
 <!--more-->
 
