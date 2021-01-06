@@ -3,7 +3,7 @@
     <title>Brian Ketelsen</title>
     <link href="https://publiiblog.vercel.app/feed.xml" rel="self" />
     <link href="https://publiiblog.vercel.app" />
-    <updated>2021-01-06T09:53:40-05:00</updated>
+    <updated>2021-01-06T09:54:32-05:00</updated>
     <author>
         <name>Brian</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://publiiblog.vercel.app/about-me/"/>
         <id>https://publiiblog.vercel.app/about-me/</id>
 
-        <updated>2021-01-06T09:53:40-05:00</updated>
+        <updated>2021-01-06T09:54:32-05:00</updated>
             <summary>
                 <![CDATA[
                      Hello! You've stumbled here because you're bored with Hacker News. I understand. On this site you're likely to find things&hellip;
@@ -29,6 +29,7 @@
 <div>Hello! You've stumbled here because you're bored with Hacker News. I understand. On this site you're likely to find things about Go, building communities, and maybe the occasional post about my hobbies: drones, 3d printing, target shooting, and travel and camping.</div>
 <div> </div>
 <div>I co-organize GopherCon, a community-focused conference for Go programmers held annually in Denver, Colorado. GopherCon's parent company is GopherAcademy which I founded with Erik St. Martin in the hopes of planting the seeds early in Go's growth curve for an open, inclusive, and friendly programming community.</div>
+<div> </div>
 <div>
 <blockquote>
 <div>I was born on the Internet. You merely adopted it.</div>
